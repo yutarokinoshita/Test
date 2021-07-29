@@ -5,7 +5,7 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance,_In_opt_ HINSTANCE hPrewInstance,_In
 {
 
 	DxLib::SetWindowText("1916013_–Ø‰º—S‘¾˜N");
-	ChangeWindowMode(true);
+	ChangeWindowMode(true); 
 	DxLib_Init();
 	SetDrawScreen(DX_SCREEN_BACK);
 
